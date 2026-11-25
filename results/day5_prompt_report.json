@@ -1,0 +1,20 @@
+{
+    "prompt_1": {
+        "total_runs": 5,
+        "unique_outputs": 1,
+        "modal_consistency": 100.0,
+        "pairwise_agreement": 100.0
+    },
+    "prompt_2": {
+        "total_runs": 5,
+        "unique_outputs": 1,
+        "modal_consistency": 100.0,
+        "pairwise_agreement": 100.0
+    },
+    "prompt_3": {
+        "total_runs": 5,
+        "unique_outputs": 1,
+        "modal_consistency": 100.0,
+        "pairwise_agreement": 100.0
+    }
+}
