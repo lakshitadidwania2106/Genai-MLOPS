@@ -1,0 +1,7 @@
+{
+    "total_runs": 5,
+    "unique_outputs": 1,
+    "modal_consistency": 100.0,
+    "pairwise_agreement": 100.0,
+    "all_outputs_identical": true
+}
