@@ -1,0 +1,20 @@
+{
+    "0.0": {
+        "total_runs": 5,
+        "unique_outputs": 1,
+        "modal_consistency": 100.0,
+        "pairwise_agreement": 100.0
+    },
+    "0.3": {
+        "total_runs": 5,
+        "unique_outputs": 5,
+        "modal_consistency": 20.0,
+        "pairwise_agreement": 0.0
+    },
+    "0.7": {
+        "total_runs": 5,
+        "unique_outputs": 5,
+        "modal_consistency": 20.0,
+        "pairwise_agreement": 0.0
+    }
+}
