@@ -1,0 +1,176 @@
+{
+    "summary": {
+        "total_runs": 15,
+        "valid_json_rate": 100.0,
+        "raw_json_only_rate": 20.0,
+        "schema_validity_rate": 100.0,
+        "task_compliance_rate": 80.0
+    },
+    "individual_results": [
+        {
+            "test_name": "normal_json",
+            "run_number": 1,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "normal_json",
+            "run_number": 2,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "normal_json",
+            "run_number": 3,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "many_fields",
+            "run_number": 1,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "many_fields",
+            "run_number": 2,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "many_fields",
+            "run_number": 3,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "nested_json",
+            "run_number": 1,
+            "valid_json": true,
+            "raw_json_only": true,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "nested_json",
+            "run_number": 2,
+            "valid_json": true,
+            "raw_json_only": true,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "nested_json",
+            "run_number": 3,
+            "valid_json": true,
+            "raw_json_only": true,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "unknown_information",
+            "run_number": 1,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": false
+        },
+        {
+            "test_name": "unknown_information",
+            "run_number": 2,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": false
+        },
+        {
+            "test_name": "unknown_information",
+            "run_number": 3,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": false
+        },
+        {
+            "test_name": "strict_types",
+            "run_number": 1,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "strict_types",
+            "run_number": 2,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        },
+        {
+            "test_name": "strict_types",
+            "run_number": 3,
+            "valid_json": true,
+            "raw_json_only": false,
+            "missing_fields": [],
+            "extra_fields": [],
+            "correct_types": true,
+            "schema_valid": true,
+            "task_compliant": true
+        }
+    ]
+}
